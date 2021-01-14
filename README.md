@@ -62,10 +62,10 @@ The challenge contains two tracks, targeting 4X and 8X super-resolution respecti
 </tr>
 <tr>
 <td>Track 8X</td>
-<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-tr_8X.zip" rel="nofollow">4X LR Train</a></td>
-<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-tr_1X.zip" rel="nofollow">4X HR Train</a></td>
-<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-va_8X.zip" rel="nofollow">4X LR Valid</a></td>
-<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-va_1X.zip" rel="nofollow">4X HR Valid</a></td>
+<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-tr_8X.zip" rel="nofollow">8X LR Train</a></td>
+<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-tr_1X.zip" rel="nofollow">8X HR Train</a></td>
+<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-va_8X.zip" rel="nofollow">8X LR Valid</a></td>
+<td><a href="https://data.vision.ee.ethz.ch/alugmayr/NTIRE2021/DIV2K-va_1X.zip" rel="nofollow">8X HR Valid</a></td>
 </tr>
 </tbody>
 </table>
