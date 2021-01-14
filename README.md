@@ -1,4 +1,4 @@
-# NTIRE 2021 Challenge on Learning the Super-Resolution Space
+# Learning the Super-Resolution Space<br><sub>NTIRE 2021 Challenge at CVPR</sub>
 
 
 ## Introduction
