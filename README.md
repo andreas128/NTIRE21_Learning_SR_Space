@@ -11,6 +11,8 @@ Learning the Super-Resolution Space challenge is held as a part of the [6th edit
 git clone --recursive https://github.com/andreas128/NTIRE21_Learning_SR_Space.git
 ```
 
+[[Get Email Notifications](http://eepurl.com/hn8IVr)]
+
 ## Tackling the ill-posed nature of Super-Resolution
 
 <img width="1134" alt="Super-Resolution is ill-posed" src="https://user-images.githubusercontent.com/11280511/104042067-435fbc00-51da-11eb-9b91-2a8a57d49594.png">
@@ -156,4 +158,11 @@ In case of any questions about the challenge or the toolkit, feel free to open a
 ## Terms and conditions
 The terms and conditions for participating in the challenge are provided [here](TERMSandCONDITIONS.md)
 
+## Get started
+
+```bash
+git clone --recursive https://github.com/andreas128/NTIRE21_Learning_SR_Space.git
+```
+
+[[Get Email Notifications](http://eepurl.com/hn8IVr)]
 
