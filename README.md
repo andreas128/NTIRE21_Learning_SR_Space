@@ -98,10 +98,10 @@ python3 measure.py OutName path/to/Ground-Truch path/to/Super-Resolution n_sampl
 ### Photo-realism
 To assess the photo-realism, a **human study** will be performed on the test set for the final sumbission.
 
-Automatically assessing the photo-realism and image quality is an extremely difficult task. All existing methods have severe shortcomings. As a very rough guide, you can use the LPIPS distance. **Note:** LPIPS will not be used to score photo-realism of you final submission. So beware of overfitting to LPIPS, as that can lead to worse results. LPIPS is integrated in our provided toolkit:
+Automatically assessing the photo-realism and image quality is an extremely difficult task. All existing methods have severe shortcomings. As a very rough guide, you can use the LPIPS distance. **Note:** LPIPS will not be used to score photo-realism of you final submission. So beware of overfitting to LPIPS, as that can lead to worse results. LPIPS is integrated in our provided [toolkit](#evaluation-protocol) in `measure.py`.
 
 ### Spanning of the SR Space
-The samples of the developed method should provide a meaningful diversity. To measure that we define the following score. We sample 10 images, densly calculate a metric between the samples and the ground trugh. Then we locally select the best sample to obtain the local best measurement. Finally, we calculate the score using following formula:
+The samples of the developed method should provide a meaningful diversity. To measure that we define the following score. We sample 10 images, densly calculate a metric between the samples and the ground truth. Then we locally select the best sample to obtain the local best measurement. Finally, we calculate the score using following formula:
 
 score = (global best - local best)/(global best) * 100
 
