@@ -127,12 +127,12 @@ To measure how much information is preserved in the super-resloved image from th
 
 | Date       | Event |
 | ---------- | ----  |
-| 2020.03.08 | test result submission deadline |
-| 2020.03.09 | fact sheet / code / model submission deadline |
-| 2020.03.11 | test preliminary score release to the participants |
-| 2020.03.28 | challenge paper submission deadline |
-| 2020.04.13 | camera-ready deadline |
-| 2020.06.15 | workshop day |
+| 2021.03.08 | test result submission deadline |
+| 2021.03.09 | fact sheet / code / model submission deadline |
+| 2021.03.11 | test preliminary score release to the participants |
+| 2021.03.28 | challenge paper submission deadline |
+| 2021.04.13 | camera-ready deadline |
+| 2021.06.15 | workshop day |
 
 
 ## Submission of Final Test Results
