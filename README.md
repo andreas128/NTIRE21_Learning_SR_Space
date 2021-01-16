@@ -103,7 +103,7 @@ To assess the photo-realism, a **human study** will be performed on the test set
 Automatically assessing the photo-realism and image quality is an extremely difficult task. All existing methods have severe shortcomings. As a very rough guide, you can use the LPIPS distance. **Note:** LPIPS will not be used to score photo-realism of you final submission. So beware of overfitting to LPIPS, as that can lead to worse results. LPIPS is integrated in our provided [toolkit](#evaluation-protocol) in `measure.py`.
 
 ### Spanning of the SR Space
-The samples of the developed method should provide a meaningful diversity. To measure that we define the following score. We sample 10 images, densly calculate a metric between the samples and the ground truth. Then we locally select the best sample to obtain the local best measurement. Finally, we calculate the score using following formula:
+The samples of the developed method should provide a meaningful diversity. To measure that, we define the following score. We sample 10 images, densely calculate a metric between the samples and the ground truth. To obtain the *local best* we pixel-wise select the best score out of the 10 samples and take the full image's average. The *global best* is obtained by averaging the whole image's score and selecting the best. Finally, we calculate the score using the following formula:
 
 score = (global best - local best)/(global best) * 100
 
