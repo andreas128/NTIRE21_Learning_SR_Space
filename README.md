@@ -25,7 +25,7 @@ Usually, super-resolution (SR) is trained using pairs of high- and low-resolutio
 
 | <img width="1000" alt="Super-Resolution with Normalizing Flow" src="https://user-images.githubusercontent.com/11280511/104035941-152aae00-51d3-11eb-9294-6fc71489c562.png"> | <img width="1000" alt="Explorable SR" src="https://user-images.githubusercontent.com/11280511/104035744-c7ae4100-51d2-11eb-9e1c-e501020c9216.png">  | <img width="1000" alt="Screenshot 2021-01-12 at 16 05 43" src="https://user-images.githubusercontent.com/11280511/104332087-1a983900-54f0-11eb-8b69-0656eaaa6c84.png"> |
 | :--: | :--: | :--: |
-| [[Paper]](http://de.arxiv.org/pdf/2005.01996) [[Project]](https://github.com/andreas128/SRFlow) | [[Paper]](https://arxiv.org/pdf/1912.01839.pdf) [[Project]](https://github.com/YuvalBahat/Explorable-Super-Resolution) | [[Paper]](https://arxiv.org/pdf/2004.04433.pdf) [[Project]](https://mcbuehler.github.io/DeepSEE/) |
+| [[Paper]](http://de.arxiv.org/pdf/2006.14200) [[Project]](https://github.com/andreas128/SRFlow) | [[Paper]](https://arxiv.org/pdf/1912.01839.pdf) [[Project]](https://github.com/YuvalBahat/Explorable-Super-Resolution) | [[Paper]](https://arxiv.org/pdf/2004.04433.pdf) [[Project]](https://mcbuehler.github.io/DeepSEE/) |
 | [1]  SRFlow: Learning the Super-Resolution Space with Normalizing Flow. Lugmayr et al., ECCV 2020.  | [2]  Explorable Super-Resolution. Bahat & Michaeli, CVPR 2020.  | [3] DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution. Bühler et al., ACCV 2020.  |
 
 
