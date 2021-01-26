@@ -171,3 +171,5 @@ To participate in this challenge, please sign up using following link and clone 
   <img width="140px" alt="CVPR 2021 Challenge Signup" src="https://user-images.githubusercontent.com/11280511/105862009-9d8cb980-5fef-11eb-8952-3e29b628afb7.png">
   </a>
 </p>
+
+<meta name="google-site-verification" content="Q-FqD2hd4f7FvP9bO8xUgYHt6vp3TctGik9IkNBwMZ4" />
