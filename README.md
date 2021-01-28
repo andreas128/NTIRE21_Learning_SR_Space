@@ -132,6 +132,7 @@ To measure how much information is preserved in the super-resloved image from th
 
 | Date       | Event |
 | ---------- | ----  |
+| 2021.03.01 | Final test data release (inputs only) |
 | 2021.03.08 | test result submission deadline |
 | 2021.03.09 | fact sheet / code / model submission deadline |
 | 2021.03.11 | test preliminary score release to the participants |
