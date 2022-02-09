@@ -17,14 +17,14 @@ Learning the Super-Resolution Space challenge is held as a part of the [6th edit
 To participate in this challenge, please sign up using the following link and clone this repo to benchmark your results. **Challenge participants can submit their paper to this CVPR 2021 Workshop.**
 
 <p align="center">
-  <a href="https://bit.ly/34E0rLB">
+  <a href="https://bit.ly/339zZZR">
   <img width="140px" alt="CVPR 2021 Challenge Signup" src="https://user-images.githubusercontent.com/11280511/105862009-9d8cb980-5fef-11eb-8952-3e29b628afb7.png">
   </a>
 </p>
 
 ## Tackling the ill-posed nature of Super-Resolution
 
-<a href="https://bit.ly/34E0rLBd">
+<a href="https://bit.ly/339zZZR">
 <img alt="CVPR 2021 Challenge" src="https://user-images.githubusercontent.com/11280511/105862172-c7de7700-5fef-11eb-8f96-319e30b6846b.gif">
 </a>
 
@@ -177,7 +177,7 @@ The terms and conditions for participating in the challenge are provided [here](
 To participate in this challenge, please sign up using following link and clone this repo to benchmark your results. **Challenge participants can submit their paper to this CVPR 2021 Workshop.**
 
 <p align="center">
-  <a href="https://bit.ly/34E0rLB">
+  <a href="https://bit.ly/339zZZR">
   <img width="140px" alt="CVPR 2021 Challenge Signup" src="https://user-images.githubusercontent.com/11280511/105862009-9d8cb980-5fef-11eb-8952-3e29b628afb7.png">
   </a>
 </p>
