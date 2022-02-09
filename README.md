@@ -1,8 +1,13 @@
+<br>
+<br>
+<br>
+
 # => Find our challenge for 2021 [here](https://github.com/andreas128/NTIRE22_Learning_SR_Space). <=
 
 <br>
 <br>
 <br>
+
 # Learning the Super-Resolution Space Challenge<br><sub>NTIRE 2021 at CVPR</sub>
 
 Learning the Super-Resolution Space challenge is held as a part of the [6th edition of NTIRE: New Trends in Image Restoration and Enhancement workshop](https://data.vision.ee.ethz.ch/cvl/ntire21/) in conjunction with CVPR 2021. The goal of this challenge is to develop a super-resolution method that can actively sample from the space of plausible super-resolutions. 
